@@ -1,0 +1,12 @@
+llama-index==0.12.37
+llama-index-llms-ollama==0.5.6
+llama-index-embeddings-ollama==0.6.0
+marker-pdf==1.7.3
+python-dotenv==1.1.0
+
+# Optional: Für bessere OCR-Performance (falls benötigt)
+# ocrmypdf>=15.0.0
+
+# Optional: Für GPU-Beschleunigung (falls CUDA verfügbar)
+# torch>=2.0.0  # Wird automatisch von marker-pdf installiert
+
