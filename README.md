@@ -198,7 +198,7 @@ DEFAULT_CONFIG = {
     "chunk_size": 512,
     "chunk_overlap": 50,
     "temperature": 0.7,
-    ...üüp
+    ...
 }
 ```
 
