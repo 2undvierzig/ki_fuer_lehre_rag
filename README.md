@@ -43,7 +43,7 @@ python rag_terminal_chat.py
 
 ## 📋 Systemanforderungen
 
-- **Python**: 3.8 oder höher
+- **Python**: 3.11 oder höher
 - **RAM**: 
   - Mindestens 8 GB (für kleine Modelle)
   - 16+ GB empfohlen (für optimale Qualität mit gemma3:27b)
